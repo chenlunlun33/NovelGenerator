@@ -1,5 +1,5 @@
 ## Pin Post
-This project has only trained and tested from the "original" folder. However, due to insufficient personal GPU computing resources, the training of the novel generator could not be completed. As a result, there may be some errors in the code, especially in the construction and usage of the tgt_mask. Another aspect that can be modified is the embedding method. Consider using BPE or SentencePiece, which may yield better performance. The contents in the "model" folder below have been reorganized and partially modified
+This project has only trained and tested from the "original" folder. However, due to insufficient personal GPU computing resources, the training of the novel generator could not be completed. As a result, there may be some errors in the code, especially in the construction and usage of the tgt_mask. Another aspect that can be modified is the embedding method. Consider using BPE or SentencePiece, which may yield better performance. The contents in the "model" folder below are those that I have reorganized and partially modified from the "original" folder.
 
 # NovelGenerator
 transformer type novel generator with stochastic decoder layer
